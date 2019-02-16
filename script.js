@@ -8,8 +8,8 @@ var config = {
 var charts = [
     ['bitfinex', 'btcusd', 'one'],
     ['binance', 'btcusdt', 'two'],
-    ['bitmex', 'btcusd-perpetual', 'three'],
-    ['bitflyer', 'btcfx-jpy', 'four']
+    ['bitmex', 'btcusd', 'perpetual', 'three'],
+    ['bitflyer', 'btcfx', 'jpy', 'four']
 ]
 
 // create all charts
